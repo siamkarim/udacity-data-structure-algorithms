@@ -41,18 +41,18 @@ class Classy(object):
 me = Classy()
 
 # Should be 0
-print me.getClassiness()
+print (me.getClassiness())
 
 me.addItem("tophat")
 # Should be 2
-print me.getClassiness()
+print(me.getClassiness())
 
 me.addItem("bowtie")
 me.addItem("jacket")
 me.addItem("monocle")
 # Should be 11
-print me.getClassiness()
+print (me.getClassiness())
 
 me.addItem("bowtie")
 # Should be 15
-print me.getClassiness()
+print (me.getClassiness())
