@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f6b49e2-248b-4ab3-9974-5ecf0cefc134" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Maps and Hashing/mapsPractise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maps and Hashing/HashTable.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,20 +36,20 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.mapsPractise">
-    <configuration name="binary-search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.HashTable">
+    <configuration name="HashTable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\siamh\AppData\Local\Programs\Python\Python310\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Searching and Sorting" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Maps and Hashing" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Searching and Sorting/binary-search.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Maps and Hashing/HashTable.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,19 +143,18 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.binary-search" />
+      <item itemvalue="Python.QuickSort" />
+      <item itemvalue="Python.dict" />
       <item itemvalue="Python.queues" />
       <item itemvalue="Python.recursion" />
       <item itemvalue="Python.bubbleSorting" />
-      <item itemvalue="Python.QuickSort" />
-      <item itemvalue="Python.dict" />
       <item itemvalue="Python.mapsPractise" />
+      <item itemvalue="Python.HashTable" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.HashTable" />
         <item itemvalue="Python.mapsPractise" />
-        <item itemvalue="Python.dict" />
-        <item itemvalue="Python.QuickSort" />
         <item itemvalue="Python.bubbleSorting" />
         <item itemvalue="Python.recursion" />
       </list>
