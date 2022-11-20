@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f6b49e2-248b-4ab3-9974-5ecf0cefc134" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Searching and Sorting/QuickSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maps and Hashing/dict.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Searching and Sorting/QuickSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Searching and Sorting/QuickSort.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +37,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.QuickSort">
+  <component name="RunManager" selected="Python.dict">
     <configuration name="binary-search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,14 +128,15 @@
       <item itemvalue="Python.recursion" />
       <item itemvalue="Python.bubbleSorting" />
       <item itemvalue="Python.QuickSort" />
+      <item itemvalue="Python.dict" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.dict" />
         <item itemvalue="Python.QuickSort" />
         <item itemvalue="Python.bubbleSorting" />
         <item itemvalue="Python.recursion" />
         <item itemvalue="Python.binary-search" />
-        <item itemvalue="Python.queues" />
       </list>
     </recent_temporary>
   </component>
