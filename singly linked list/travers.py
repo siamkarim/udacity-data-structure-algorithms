@@ -13,7 +13,7 @@ class LinkedList:
         else:
             n = self.head
             while n is not None:
-                print(n.data)
+                print(n.data,"-->", end=" ")
                 n = n.ref
 
     def add_begin(self,data):
