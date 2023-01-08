@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55c6fa85-f449-490e-b6f5-f820451c458e" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/singly linked list/travers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/singly linked list/traversing" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/singly linked list/travers.py" beforeDir="false" afterPath="$PROJECT_DIR$/singly linked list/travers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,8 +180,18 @@
       <workItem from="1672934835310" duration="1696000" />
       <workItem from="1672981071360" duration="3333000" />
       <workItem from="1673074169125" duration="2928000" />
-      <workItem from="1673114755949" duration="1568000" />
+      <workItem from="1673114755949" duration="2476000" />
+      <workItem from="1673151437684" duration="2309000" />
+      <workItem from="1673194742488" duration="587000" />
     </task>
+    <task id="LOCAL-00001" summary="Changes">
+      <created>1673117637987</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673117637987</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,7 +209,11 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Udacity$travers.coverage" NAME="travers Coverage Results" MODIFIED="1673117232589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/singly linked list" />
+    <SUITE FILE_PATH="coverage/Udacity$travers.coverage" NAME="travers Coverage Results" MODIFIED="1673156151799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/singly linked list" />
   </component>
 </project>

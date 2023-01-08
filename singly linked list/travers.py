@@ -31,12 +31,27 @@ class LinkedList:
                 n = n.ref
             n.ref = new_node
 
+    def add_afterNode(self,data,x):
+        n = self.head
+        while n is not None:
+            if x==n.data:
+                break
+            n = n.ref
+        if n is None:
+            print("Node is not present in link list")
+        else:
+            new_node = Node(data)
+            new_node.ref = n.ref
+            n.ref = new_node
+
 node = LinkedList()
 node.add_begin(10)
 node.add_end(50)
 node.add_end(60)
 node.add_begin(13)
 node.add_begin(9)
+node.add_afterNode(11, 10)
+node.add_afterNode(70, 60)
 
 node.printList()
 
