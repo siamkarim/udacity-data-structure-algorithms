@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55c6fa85-f449-490e-b6f5-f820451c458e" name="Changes" comment="adding after node">
-      <change afterPath="$PROJECT_DIR$/leetCode Solve/pascals-triangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Udacity.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Udacity.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/singly linked list/travers.py" beforeDir="false" afterPath="$PROJECT_DIR$/singly linked list/travers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +50,7 @@
       <recent name="G:\Udacity" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.pascals-triangle">
+  <component name="RunManager" selected="Python.travers">
     <configuration name="pascals-triangle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Udacity" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -161,8 +163,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.pascals-triangle" />
         <item itemvalue="Python.travers" />
+        <item itemvalue="Python.pascals-triangle" />
         <item itemvalue="Python.traversing" />
         <item itemvalue="Python.stackBasic" />
         <item itemvalue="Python.two sum" />
@@ -185,6 +187,7 @@
       <workItem from="1673194742488" duration="1259000" />
       <workItem from="1673236191242" duration="1177000" />
       <workItem from="1673279333662" duration="2023000" />
+      <workItem from="1676733448974" duration="1681000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1673117637987</created>
@@ -224,7 +227,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="adding after node" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Udacity$pascals_triangle.coverage" NAME="pascals-triangle Coverage Results" MODIFIED="1673279830646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetCode Solve" />
-    <SUITE FILE_PATH="coverage/Udacity$travers.coverage" NAME="travers Coverage Results" MODIFIED="1673156151799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/singly linked list" />
+    <SUITE FILE_PATH="coverage/Udacity$pascals_triangle.coverage" NAME="pascals-triangle Coverage Results" MODIFIED="1676736414583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetCode Solve" />
+    <SUITE FILE_PATH="coverage/Udacity$travers.coverage" NAME="travers Coverage Results" MODIFIED="1676736564646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/singly linked list" />
   </component>
 </project>
