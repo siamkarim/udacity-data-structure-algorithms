@@ -63,11 +63,14 @@ class LinkedList:
         else:
             new_node = Node(data)
             new_node.ref = n.ref
-            n.ref = new_node             
+            n.ref = new_node
 
-
-
-
+    def insert_empty(self, data):
+        if self.head is None:
+            new_node = Node(data)
+            self.head = new_node
+        else:
+            print("Linked List is not empty!")
 
 
 node = LinkedList()
